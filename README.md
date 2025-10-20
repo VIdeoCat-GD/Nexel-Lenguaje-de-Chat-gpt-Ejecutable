@@ -63,3 +63,5 @@ Errores y depuración
 Muestra el número de línea en caso de error de sintaxis o variable no definida.
 
 Facilita identificar y corregir rápidamente los problemas en scripts.
+
+Consigue la version de codigo abierto https://github.com/VIdeoCat-GD/Nexel-Lenguaje-de-Chat-gpt-
